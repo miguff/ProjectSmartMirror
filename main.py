@@ -6,6 +6,7 @@ import sys
 
 def main():
 
+    
     s = 1 #Number of camera
     source = cv2.VideoCapture(s)
 
